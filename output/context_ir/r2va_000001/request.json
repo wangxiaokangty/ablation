@@ -1,0 +1,18 @@
+{
+  "model": "MiniMax-H3",
+  "content": [
+    {
+      "type": "text",
+      "text": "根据@图片1 生成视频"
+    },
+    {
+      "type": "image_url",
+      "image_url": {
+        "url": "mm_file://456800405344879"
+      },
+      "role": "reference_image"
+    }
+  ],
+  "duration": 10,
+  "ratio": "adaptive"
+}

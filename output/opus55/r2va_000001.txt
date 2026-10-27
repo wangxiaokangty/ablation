@@ -1,0 +1,32 @@
+subject_definitions:
+<Subject 1> is the Chang'e moon-goddess figure from the storyboard panels in <Picture 1>, a young East Asian woman with long black hair gathered into an ornate updo with gold hair ornaments, a flowing white silk robe with long trailing ribbons and gold trim, and a serene, calm expression.
+<Subject 2> is the moon-palace environment from <Picture 1>, featuring a huge glowing full moon, golden-lit clouds against a deep navy night sky, a carved golden circular cloud gate, and a warm interior with a large round moon window, polished reflective floor, standing bronze lanterns, potted plants, and drifting mist.
+<Subject 3> is the freestanding white bathtub from <Picture 1>, a glossy oval soaking tub with gently raised ends, smooth flowing lines, a thin rim, a slim chrome overflow slot on the inner wall, and a small brand mark on the front.
+<Subject 4> is the brand end card from <Picture 1>, showing a gold lotus-shaped logo with the gold text "帝王洁具" and "MONARCH", the product line "TB008-1 月沐浴缸", and the slogan "月沐之境 · 净享新生" on a dark navy background beside a full moon.
+<Picture 1> is a seven-panel storyboard reference for [Shot 1] through [Shot 7], defining each shot's content, timing (0-2s, 2-4s, 4-6s, 6-9s, 9-11s, 11-13s, 13-15s), camera movement, transitions and effects, and the Chinese voice-over lines.
+
+summary:
+[reference generation] The target video is a 15-second luxury bathtub commercial in an Eastern-mythology style that follows <Picture 1> shot by shot. <Subject 1> flies toward the moon, passes through the cloud gate of <Subject 2>, and arrives in the moon palace where <Subject 3> is revealed; she then soaks in the tub, a macro shot shows the overflow detail, an orbiting shot blends the tub with the palace, and the video ends on <Subject 4>, all under a calm Mandarin voice-over.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 4]): fully_preserved - her black updo with gold ornaments, white silk robe with trailing ribbons, and serene expression are retained.
+<Subject 2> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4], [Shot 6], [Shot 7]): fully_preserved - the full moon, golden clouds, circular cloud gate, moon window, lanterns, reflective floor, and mist are retained.
+<Subject 3> (appears in [Shot 3], [Shot 4], [Shot 5], [Shot 6]): fully_preserved - the glossy white oval freestanding form, raised ends, thin rim, and chrome overflow slot are retained.
+<Subject 4> (appears in [Shot 7]): fully_preserved - the gold logo, brand name, product name, and slogan text and layout are retained.
+<Picture 1> (storyboard for [Shot 1] through [Shot 7]): fully_preserved - the seven-shot order, timing, framing, camera moves, transitions, effects, and voice-over lines are followed.
+
+detailed_description:
+The target video is a high-end commercial in an Eastern-mythology aesthetic blended with modern minimalist luxury, with warm golden moonlight, deep navy shadows, soft mist, and a tranquil, pure, healing mood.
+[Shot 1] A wide shot of <Subject 2>'s night sky: a huge glowing full moon sits upper left above layers of golden-edged clouds against deep navy. <Subject 1>, in her white silk robe with long ribbons streaming behind her and gold ornaments in her black updo, floats in from the right, one arm extended toward the moon. The camera pushes in slowly as the moonlight gradually brightens and the clouds drift. A calm, warm female narrator (S1) speaks off-screen, <d>[Chinese] 月上中天，心向净境。</d>
+[Shot 2] At 00:02.000, a medium tracking shot pans laterally beside <Subject 1> as she glides over billowing clouds, ribbons and sleeves fluttering, gazing ahead. On the right, the carved golden circular cloud gate of <Subject 2> glows, revealing palace pavilions within. She passes through the gate in a flowing light effect as light ripples across the ring. The narrator (S1) continues off-screen, <d>[Chinese] 追随心之所向，抵达静谧之境。</d>
+[Shot 3] At 00:04.000, a wide reveal inside the moon palace: <Subject 3>, the glossy white freestanding oval tub, stands centered on a polished floor before a large round window framing the full moon, flanked by glowing bronze lanterns, potted plants, and drifting mist. The camera pushes in slowly while a soft highlight sweeps across the tub's curve. The narrator (S1) says off-screen, <d>[Chinese] 帝王洁具TB008-1月沐浴缸，为你打造专属的月沐时光。</d>
+[Shot 4] At 00:06.000, a medium close-up from the side: <Subject 1> reclines in <Subject 3>, head resting on the raised end, eyes closed, gold ornaments in her hair, shoulders above milky water strewn with cream-colored petals. Steam rises; gentle ripples spread as petals drift down. The camera pushes in from the side. The narrator (S1) says off-screen, <d>[Chinese] 宽体承托，温润如月，洗尽尘忧，身心皆安。</d>
+[Shot 5] At 00:09.000, a macro close-up of <Subject 3>'s inner wall: clear water spills in a thin sheet over the rim beside the slim chrome overflow slot, light glinting on the water and the smooth white curve. The camera creeps in slightly as highlights flow along the edge. The narrator (S1) says off-screen, <d>[Chinese] 匠心设计，细节之处，尽显品质。</d>
+[Shot 6] At 00:11.000, a medium orbiting shot circles <Subject 3> slowly, centered in the palace before the moon window, lanterns glowing on both sides; ambient light halos bloom and the atmosphere warms. The narrator (S1) says off-screen, <d>[Chinese] 东方美学，现代工艺，成就高端浴享体验。</d>
+[Shot 7] At 00:13.000, the logo end card <Subject 4> fades in on dark navy: the gold lotus logo with "帝王洁具" and "MONARCH" on the left, "TB008-1 月沐浴缸" and "月沐之境 · 净享新生" beneath, and the full moon glinting on the right with faint clouds below. The frame holds locked as moonlight flares, then fades out. The narrator (S1) says off-screen, <d>[Chinese] 帝王洁具TB008-1月沐浴缸，月沐之境，净享新生。</d>
+
+overall_soundscape:
+Soft airy wind and faint whooshes of drifting cloud accompany the sky shots, a gentle shimmering chime marks passage through the cloud gate, quiet palace room tone with light water lapping and dripping runs through the bathing and detail shots, and a soft sparkle accent sits under the final moon flare.
+
+non_diegetic_music:
+A serene Eastern-style score at a slow tempo, led by guzheng plucks and a breathy dizi melody over soft string pads and light ambient piano, building gently through the palace reveal and orbit, then resolving into a warm sustained chord that fades out with the end card.

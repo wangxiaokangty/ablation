@@ -1,0 +1,31 @@
+subject_definitions:
+<Subject 1> is the ancient-style bedroom scene in <Picture 1>, featuring marble pillars, a mosaic floor, and a bed with red and brown covers and eagle ornaments.
+<Subject 2> is the young woman, Philomela, in <Picture 2> and <Picture 4>, featuring long blonde wavy hair, a golden laurel wreath, and a pink silk dress with lace off-shoulder sleeves and gold medallion clasps.
+<Subject 3> is the maid in <Picture 3>, featuring brown braided hair, a simple short beige linen tunic tied at the waist with a rope, and sandals.
+<Subject 4> is King Tereus in <Picture 5>, featuring grey hair, a full beard, a golden laurel wreath, a white draped tunic, and a deep red cloak with gold embroidered borders.
+<Picture 4> is the first frame of [Shot 1], showing a close-up of <Subject 2> looking upward with a distressed expression.
+
+summary:
+[keyframe completion + reference generation] The video begins in an ancient bedroom (<Subject 1>) with a close-up of Philomela (<Subject 2>), matching <Picture 4>. King Tereus (<Subject 4>) furiously slaps her, and she holds her cheek in distress. The shot cuts to the maid (<Subject 3>) covering her mouth in shock. The video then cuts back to the King angrily scolding Philomela, who stumbles backward and collapses to her knees on the floor in a state of panic.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - the ancient-style bedroom scene with marble pillars and a mosaic floor is preserved as the target environment.
+<Subject 2> (appears in [Shot 1], [Shot 3]): fully_preserved - the young woman with blonde wavy hair, golden laurel wreath, and pink silk dress is fully preserved.
+<Subject 3> (appears in [Shot 2]): fully_preserved - the maid with brown braided hair and simple beige linen tunic is preserved.
+<Subject 4> (appears in [Shot 1], [Shot 3]): fully_preserved - the older man with grey hair, beard, white tunic, and red cloak is fully preserved.
+<Picture 4> ([Shot 1] first frame): fully_preserved - the target video begins with this close-up framing of <Subject 2>.
+
+detailed_description:
+The target video is in a realistic, cinematic live-action style with dramatic lighting and ancient classical aesthetics.
+
+[Shot 1] The shot begins with <Picture 4>, showing a close-up of Philomela (<Subject 2>) in the ancient-style bedroom (<Subject 1>). She has long blonde wavy hair, a golden laurel wreath, and a pink silk dress with lace shoulders, looking upward with a distressed expression. The camera quickly pulls back to reveal King Tereus (<Subject 4>), an older man with grey hair, a full beard, a golden laurel wreath, a white tunic, and a deep red cloak with gold embroidery. The room is filled with a quiet, tense ambience. Suddenly, the furious king raises his arm and forcefully slaps <Subject 2> across the face, producing a sharp, crisp echoing slap. <Subject 2>'s head jerks to the side from the impact. A short gasp is heard as she immediately brings her trembling hand to her reddened cheek, her eyes widening in pure pain and shock, holding this stunned pose as the camera slightly pushes in.
+
+[Shot 2] At 00:03.500, the shot cuts to the maid (<Subject 3>) standing nearby in the same bedroom (<Subject 1>). She has brown braided hair and wears a simple short beige linen tunic tied at the waist. Witnessing the sudden violence, a sharp intake of breath is heard as she gasps, swiftly raising both hands to cover her mouth. Her eyes are wide with sheer terror and surprise, staring off-screen at the escalating conflict. A tense, heavy silence underscores her frozen, panicked reaction, while the marble pillars of the room stand softly blurred in the background.
+
+[Shot 3] At 00:05.500, the shot cuts back to a wider view of the two main figures. King Tereus (<Subject 4>) glares down at <Subject 2>, his face contorted in rage, while the tense quiet continues. The furious king (S1), his voice deep, booming, and filled with harsh authority, sternly scolds, <d>[Chinese] 放肆！你以为我想这样吗？</d>. As he delivers the harsh words, he gestures aggressively with his outstretched hand. Once his voice stops, the heavy silence returns, broken only by the rustling of silk. <Subject 2>, still clutching her cheek, loses her footing under the intense emotional and physical pressure. She stumbles backward, her pink dress flowing around her, and collapses heavily, producing a dull thud as her knees hit the mosaic floor. The camera tilts down to follow her descent. She remains kneeling, her chest heaving, staring up at the towering king with eyes full of panic and heartache, as the scene holds on this tragic tableau until the ending.
+
+overall_soundscape:
+The soundscape features a quiet, tense ambient room atmosphere shattered by a crisp, echoing slap, followed by sharp gasps, an angry booming male voice, and the realistic Foley of fabric rustling and knees hitting a hard floor.
+
+non_diegetic_music:
+A subtle, dark orchestral drone with low strings plays softly in the background, adding to the dramatic tension without overpowering the dialogue and action.

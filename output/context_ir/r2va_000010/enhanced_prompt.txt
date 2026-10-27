@@ -1,0 +1,19 @@
+subject_definitions:
+<Subject 1> is the character Philomela, featuring long wavy strawberry-blonde hair adorned with a gold laurel leaf crown, wearing a pale pink satin dress with off-the-shoulder lace sleeves and gold shoulder brooches, as shown in <Picture 2> and <Picture 3>. <Subject 2> is the bedroom environment characterized by Roman-style architecture, with marble floors, fluted white columns, and a green wooden bed frame decorated with eagle motifs, featuring a dark red comforter and gray blanket, as shown in <Picture 1>.
+
+summary:
+[keyframe completion + reference generation] <Picture 3> acts as the opening frame where <Subject 1> kneels on the marble floor of the bedroom <Subject 2>, examining broken stone fragments. <Subject 1> cuts her finger on a shard, then watches as droplets of blood fall onto the stones, followed by a close-up of her pained expression.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2]): fully_preserved - the character's facial structure, hair color and style, golden laurel crown, and pale pink satin dress with lace sleeves are consistently maintained. <Subject 2> (appears in [Shot 1], [Shot 2]): fully_preserved - the Roman architectural setting, marble floor pattern, and column placement are maintained from the reference. <Picture 3> ([Shot 1] first frame): fully_preserved - used as the starting composition of the scene.
+
+detailed_description:
+The target video is in a cinematic, realistic style with warm, golden-hour lighting that casts soft shadows across the marble floor. [Shot 1] At 00:00.000, the shot begins from <Picture 3>, showing <Subject 1> kneeling on the intricately tiled floor of the bedroom <Subject 2>. She is focused intently on a collection of sharp, broken stone fragments lying on the ground. She reaches out with her right index finger to touch a sharp edge. As she does, her finger is nicked by a jagged piece, and a small, bright red bead of blood forms at the fingertip. The camera remains in a steady, slightly high-angle medium shot, capturing the textures of the stone and the satin fabric of her dress. 
+
+[Shot 2] At 00:05.125, the shot cuts to a close-up of <Subject 1>'s face as she reacts to the pain. Her brow furrows and her eyes tighten, her lips parting slightly in a sharp, quiet intake of breath. She looks down at the ground, where the camera tracks the falling droplet of blood hitting the gray stone surface, staining it with a dark crimson spot. The camera slowly zooms in on her pained, expressive face, emphasizing the emotional distress of the moment as she draws her hand back slightly toward her chest, leaving the blood-stained stone in the foreground, before holding the pained expression for the remainder of the shot.
+
+overall_soundscape:
+The soundscape features the quiet, ambient room tone of a grand chamber, underscored by the sharp, soft clink of stone on marble and the faint sound of a breathy gasp of pain during the close-up.
+
+non_diegetic_music:
+A delicate, slow-tempo solo harp melody plays softly throughout, with sustained, low-pitched string notes that swell slightly during the close-up to emphasize the character's distress.

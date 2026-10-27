@@ -1,0 +1,32 @@
+{
+  "model": "MiniMax-H3",
+  "content": [
+    {
+      "type": "text",
+      "text": "卧室场景参考@图片1菲洛墨拉形象参考@图片2  以此图为首帧@图片3 \n菲洛墨拉看着地上碎裂的石刻画，指尖不小心被碎石划伤，鲜血滴落在石块上。（菲洛墨拉手被划伤时，特写吃痛表情镜头）"
+    },
+    {
+      "type": "image_url",
+      "image_url": {
+        "url": "mm_file://456801303195840"
+      },
+      "role": "reference_image"
+    },
+    {
+      "type": "image_url",
+      "image_url": {
+        "url": "mm_file://456800830726364"
+      },
+      "role": "reference_image"
+    },
+    {
+      "type": "image_url",
+      "image_url": {
+        "url": "mm_file://456802091143764"
+      },
+      "role": "reference_image"
+    }
+  ],
+  "duration": 10,
+  "ratio": "adaptive"
+}

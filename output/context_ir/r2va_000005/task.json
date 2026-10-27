@@ -1,0 +1,19 @@
+{
+  "id": "456801347469538",
+  "model": "MiniMax-H3",
+  "status": "succeeded",
+  "created_at": 1793076683,
+  "updated_at": 1793076727,
+  "content": {
+    "prompt": "subject_definitions:\n<Subject 1> is Philomela from <Picture 2>, a young woman with wavy golden-blonde hair wearing a gold laurel wreath crown and a floor-length pale pink silk nightgown with cold-shoulder lace sleeves and circular gold clasps.\n<Subject 2> is the maidservant from <Picture 3>, a young woman with braided brunette hair wearing a simple knee-length beige linen tunic cinched with a thin rope belt.\n<Subject 3> is the palace bedroom from <Picture 1>, a classical ancient hall featuring fluted white marble columns, marble walls, a bed with a dark green headboard topped with carved eagle sculptures, and mosaic flooring.\n<Picture 4> is the first frame of [Shot 1], showing <Subject 1> seated in bed speaking happily to <Subject 2> standing beside her.\n\nsummary:\n[keyframe completion + reference generation] In <Subject 3>, the video begins from <Picture 4> as <Subject 1> wakes up on the bed and speaks with joyous anticipation to <Subject 2>. The camera then cuts to a close-up reaction shot of <Subject 2> smiling and nodding.\n\nretention_analysis:\n<Subject 1> (appears in [Shot 1]): fully_preserved - retains the golden-blonde hair, gold laurel crown, facial features, and pink silk dress design from <Picture 2>.\n<Subject 2> (appears in [Shot 1], [Shot 2]): fully_preserved - retains the braided brown hairstyle and simple beige linen belted tunic from <Picture 3>.\n<Subject 3> (appears in [Shot 1], [Shot 2]): fully_preserved - retains the marble columns, eagle-adorned green bedstead, and classical palace architecture from <Picture 1>.\n<Picture 4> ([Shot 1] first frame): fully_preserved - directly provides the composition and character staging for the opening shot.\n\ndetailed_description:\nThe target video is in a realistic cinematic style with warm morning sunlight.\n\n[Shot 1] The shot begins from <Picture 4> in a medium shot inside <Subject 3>. <Subject 1> (S1), with a clear, youthful, and eager tone, sits up amidst the bed cushions and joyfully addresses <Subject 2> standing at the bedside. <Subject 1> (S1) speaks, <d>[English] Today is my eighteenth birthday. I've finally come of age. Perhaps I can break free from my father's constraints, see the world beyond the temple,</d> gesturing lightly as sunlight illuminates her golden crown. Soft ambient morning rustle fills the quiet room.\n\n[Shot 2] At 00:05.800, the shot cuts to a close-up of <Subject 2> standing against the marble pillars of <Subject 3>. The audio from the previous shot continues uninterrupted over this visual as the off-screen <Subject 1> (S1) finishes her line, <d>[English] <scenetrans>and maybe meet someone who shares my heart, and have a love of my own.</d> <Subject 2> smiles warmly and nods in supportive agreement. After the dialogue finishes, <Subject 2>'s smile softens as gentle silence settles across the sunlit chamber.\n\noverall_soundscape:\nA soft, quiet palace bedroom interior ambience with subtle morning air and fabric rustling.\n\nnon_diegetic_music:\nA gentle, lyrical harp and string melody playing at a low, warm dynamic."
+  },
+  "duration": 10,
+  "usage": {
+    "total_tokens": 39680,
+    "prompt_tokens": 37610,
+    "completion_tokens": 2070
+  },
+  "ratio": "9:16",
+  "task_type": "h3_context_ir",
+  "modality": "text"
+}

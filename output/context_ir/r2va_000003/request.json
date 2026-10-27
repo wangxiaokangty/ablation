@@ -1,0 +1,32 @@
+{
+  "model": "MiniMax-H3",
+  "content": [
+    {
+      "type": "text",
+      "text": "卧室场景参考@图片1菲洛墨拉形象参考 \n塞洛斯王宫卧室，装饰着铃兰与橄榄枝。菲洛墨拉穿着粉色丝质睡裙，从羊毛软垫上醒来，嘴角带笑，对一旁侍女欢快诉说。（憧憬喜悦）\n侍女反应镜头（非常开心）\n【对白】菲洛墨拉：\"今天是我十八岁生辰。我终于成年，或许可以摆脱父王的束缚，去看看神庙之外的世界，\""
+    },
+    {
+      "type": "image_url",
+      "image_url": {
+        "url": "mm_file://456800542486767"
+      },
+      "role": "reference_image"
+    },
+    {
+      "type": "image_url",
+      "image_url": {
+        "url": "mm_file://456800830726364"
+      },
+      "role": "reference_image"
+    },
+    {
+      "type": "image_url",
+      "image_url": {
+        "url": "mm_file://456800799990368"
+      },
+      "role": "reference_image"
+    }
+  ],
+  "duration": 10,
+  "ratio": "adaptive"
+}

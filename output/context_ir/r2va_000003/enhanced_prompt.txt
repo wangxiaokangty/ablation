@@ -1,0 +1,19 @@
+subject_definitions:
+<Subject 1> is Philomela, featuring long wavy blonde hair adorned with a gold laurel wreath, wearing a pink silk off-shoulder sleeping dress with lace sleeves and shoulder buttons, as seen in <Picture 2>. <Subject 2> is the Sarpedon palace bedroom, an ancient Greek-style interior with white marble columns, a bed with a dark green carved headboard topped with eagle motifs, decorated with lily-of-the-valley and olive branches, as established in <Picture 1>. <Subject 3> is the maid, depicted with simple braided brown hair and a plain beige tunic, as seen in <Picture 3>.
+
+summary:
+[reference generation] <Subject 1> wakes up in <Subject 2> and excitedly tells <Subject 3> about her eighteenth birthday.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - retains identity, blonde hair with gold wreath, and pink silk dress from <Picture 2>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - retains architectural style, columns, and bed design from <Picture 1>.
+<Subject 3> (appears in [Shot 1]): fully_preserved - retains appearance and attire from <Picture 3>.
+
+detailed_description:
+The target video is in a cinematic, soft-lit historical style with warm sunlight filtering through the columns. [Shot 1] The shot opens on a close-up of <Subject 1> (S1), her blonde hair flowing over her shoulders, her face glowing with joy as she sits up on the plush bed in <Subject 2>. She wears her pink silk dress from <Picture 2>. She smiles at <Subject 3> (S2), who stands nearby in her beige tunic. The morning light highlights the marble textures of <Subject 2>. <Subject 1> (S1) speaks with a bright, enthusiastic voice, her cadence quick and hopeful, <Subject 1> (S1) says, <d>[Chinese] 今天是我十八岁生辰。我终于成年，或许可以摆脱父王的束缚，去看看神庙之外的世界。</d> As she finishes, she continues her beaming expression, her eyes wide with dreams, while she gently brushes her hair back with a fluid, graceful hand motion that extends until the shot ends. The ambient sound of a soft breeze and distant birds chirping accompanies her words. The camera is a static shot focused on their interaction, capturing the intimacy of the room.
+
+overall_soundscape:
+The soundscape features the gentle, calm ambience of a morning in an ancient palace, with soft rustling of silk and light morning breezes circulating through the marble columns.
+
+non_diegetic_music:
+A delicate, light orchestral underscore featuring a solo flute and soft harp arpeggios, creating an uplifting and hopeful atmosphere.

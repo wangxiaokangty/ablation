@@ -1,0 +1,19 @@
+{
+  "id": "456800443249265",
+  "model": "MiniMax-H3",
+  "status": "succeeded",
+  "created_at": 1793076562,
+  "updated_at": 1793076685,
+  "content": {
+    "prompt": "subject_definitions:\n<Subject 1> is the young woman Philomela, referenced in <Picture 2>, defined by her long strawberry-blonde hair with a gold laurel crown accessory, and a pale pink silk nightgown featuring off-the-shoulder lace sleeves. <Subject 2> is the handmaiden, referenced in <Picture 3>, defined by her brown hair in a braided crown with loose curls, and a simple, short-sleeved beige linen tunic tied at the waist with a rope belt. <Subject 3> is the Selos palace bedroom environment, defined in <Picture 1> by marble pillars, a dark green headboard featuring an eagle carving, and decorations of lily of the valley and olive branches.\n\nsummary:\n[keyframe completion + reference generation] <Picture 4> serves as the keyframe anchor for <Subject 1> and <Subject 2> in <Subject 3>. <Subject 1> awakens in the <Subject 3> bedroom, wearing her pink silk nightgown, and speaks to <Subject 2> about her birthday.\n\nretention_analysis:\n<Subject 1> (appears in [Shot 1]): fully_preserved - the appearance, hair, crown, and pink nightgown are maintained from <Picture 2>.\n<Subject 2> (appears in [Shot 1]): fully_preserved - the appearance, hairstyle, and beige tunic are maintained from <Picture 3>.\n<Subject 3> (appears in [Shot 1]): fully_preserved - the bedroom environment, marble pillars, and eagle-headboard are maintained from <Picture 1>.\n<Picture 4> ([Shot 1] keyframe): fully_preserved - the composition, subject placement, and internal bedroom lighting serve as the primary visual anchor for [Shot 1].\n\ndetailed_description:\nThe target video is in a cinematic, soft-lit historical style with warm golden tones illuminating the marble textures and silk fabrics of the bedroom. [Shot 1] begins with the keyframe anchor from <Picture 4>, showing <Subject 3> as <Subject 1> awakens on the bed, sitting up against the dark green headboard with a joyous smile. She is wearing the pale pink silk nightgown from <Subject 1>. <Subject 2> stands beside the bed, dressed in her beige linen tunic, watching <Subject 1> with a warm, attentive expression. As <Subject 1> begins to speak, she looks toward <Subject 2> and gestures slightly with her hands. The off-screen narrator voice (S1), conveying <Subject 1>'s inner voice, says with a hopeful, rhythmic cadence, <d>[English] Today is my eighteenth birthday.</d> She pauses, her expression brightening further with anticipation. <Subject 1> (S1) continues, <d>[English] I've finally come of age.</d> She looks upward, her eyes shining, then turns back to <Subject 2> to continue, <d>[English] Perhaps I can break free from my father's constraints, see the world beyond the temple, and maybe meet someone who shares my heart, and have a love of my own.</d> After the final word, <Subject 1> closes her mouth into a soft, satisfied smile while her gaze lingers on <Subject 2>, her hands gently resting on the sheepskin bedding as she continues to look toward her companion with a sense of newfound possibility.\n\noverall_soundscape:\nThe soundscape consists of soft, ambient room noise, including the faint rustling of silk and linen fabric, consistent with the indoor bedroom setting. After the final spoken line, the room returns to a quiet, serene ambience.\n\nnon_diegetic_music:\nN/A"
+  },
+  "duration": 10,
+  "usage": {
+    "total_tokens": 34770,
+    "prompt_tokens": 33932,
+    "completion_tokens": 838
+  },
+  "ratio": "9:16",
+  "task_type": "h3_context_ir",
+  "modality": "text"
+}

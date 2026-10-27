@@ -7,7 +7,9 @@ authors = [
     { name = "wxk", email = "1002075358@qq.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "requests>=2.34.2",
+]
 
 [project.scripts]
 ablation = "ablation:main"

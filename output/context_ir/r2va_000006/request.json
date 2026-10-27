@@ -1,0 +1,46 @@
+{
+  "model": "MiniMax-H3",
+  "content": [
+    {
+      "type": "text",
+      "text": "卧室场景参考@图片1菲洛墨拉形象参考@图片2 侍女形象参考@图片3 以此图为首帧@图片4 国王形象参考@图片5 塞洛斯国王勃然大怒，抬手重重地扇了菲洛墨拉一巴掌，清脆的响声在卧室里回荡。（仕女反应镜头捂着嘴惊讶）\n塞洛斯国王（厉声呵斥）：放肆！你以为我想这样吗？\n△ 菲洛墨拉捂着脸颊，踉跄着跪下身，眼中满是惊恐与心疼。"
+    },
+    {
+      "type": "image_url",
+      "image_url": {
+        "url": "mm_file://456801303195840"
+      },
+      "role": "reference_image"
+    },
+    {
+      "type": "image_url",
+      "image_url": {
+        "url": "mm_file://456800830726364"
+      },
+      "role": "reference_image"
+    },
+    {
+      "type": "image_url",
+      "image_url": {
+        "url": "mm_file://456800484540656"
+      },
+      "role": "reference_image"
+    },
+    {
+      "type": "image_url",
+      "image_url": {
+        "url": "mm_file://456801561338446"
+      },
+      "role": "reference_image"
+    },
+    {
+      "type": "image_url",
+      "image_url": {
+        "url": "mm_file://456800830021882"
+      },
+      "role": "reference_image"
+    }
+  ],
+  "duration": 10,
+  "ratio": "adaptive"
+}
